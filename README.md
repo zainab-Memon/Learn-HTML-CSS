@@ -14,4 +14,13 @@
 ### Headings 
 ![](https://github.com/zainab-Memon/Learn-HTML-CSS/blob/main/Images/html%20headings.PNG) <br>
 ![](https://github.com/zainab-Memon/Learn-HTML-CSS/blob/main/Images/headings.PNG)
+### Text and Formatting Elements 
+There are so many text elements in html, a few of them are listed below.
+- Paragraph Element: \<p> This is a paragraph element \</p>
+- List Element: You can use two types of list in html.
+	- Ordered Lists
+![](https://github.com/zainab-Memon/Learn-HTML-CSS/blob/main/Images/html%20ol.PNG) <br>	
+	- Unordered Lists
+![](https://github.com/zainab-Memon/Learn-HTML-CSS/blob/main/Images/html%ul.PNG) <br>
+- 
 # Day 2 10/11/2022
