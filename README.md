@@ -11,5 +11,6 @@
 	- Content: Hi, My name is Zainab Memon
 ### HTML Document Structure 
 ![](https://github.com/zainab-Memon/Learn-HTML-CSS/blob/main/Images/doc%20structure.PNG)
+### Headings 
 
 # Day 2 10/11/2022
