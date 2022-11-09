@@ -18,9 +18,20 @@
 There are so many text elements in html, a few of them are listed below.
 - Paragraph Element: \<p> This is a paragraph element \</p>
 - List Element: You can use two types of list in html.
-	- Ordered Lists
+	- Ordered Lists <br>
 ![](https://github.com/zainab-Memon/Learn-HTML-CSS/blob/main/Images/OL.PNG) <br>	
-	- Unordered Lists
+	- Unordered Lists <br>
 ![](https://github.com/zainab-Memon/Learn-HTML-CSS/blob/main/Images/ul.PNG) <br>
-- 
+#### Formatting Elements
+Here is a list of a few formatting elements of html 
+- \<b> - Bold text
+- \<strong> - Important text
+- \<i> - Italic text
+- \<em> - Emphasized text
+- \<mark> - Marked text
+- \<small> - Smaller text
+- \<del> - Deleted text
+- \<ins> - Inserted text
+- \<sub> - Subscript text
+- \<sup> - Superscript text
 # Day 2 10/11/2022
