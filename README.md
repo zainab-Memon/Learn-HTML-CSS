@@ -8,9 +8,9 @@ JS  --> Verbs --> Provides dynamic effects and web applications <br>
 Element: \<p>Hi, My name is zainab memon.\</p> 
 <br>
 Here: <br>
-	- Opening Tag: \<p>
-	- Content: Hi, My name is zainab memon.
-	- Closing Tag: \</p>
+	- **Opening Tag:** \<p>
+	- **Content:** Hi, My name is zainab memon.
+	- **Closing Tag:** \</p>
 
 
 Day 2: 10/11/2022
