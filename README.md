@@ -12,5 +12,6 @@
 ### HTML Document Structure 
 ![](https://github.com/zainab-Memon/Learn-HTML-CSS/blob/main/Images/doc%20structure.PNG)
 ### Headings 
-
+![](https://github.com/zainab-Memon/Learn-HTML-CSS/blob/main/Images/html%20headings.PNG) <br>
+![](https://github.com/zainab-Memon/Learn-HTML-CSS/blob/main/Images/headings.PNG)
 # Day 2 10/11/2022
