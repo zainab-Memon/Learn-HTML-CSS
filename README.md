@@ -10,6 +10,7 @@
 	- Closing Tag: \</p>
 	- Content: Hi, My name is Zainab Memon
 ### HTML Document Structure 
+![](https://github.com/zainab-Memon/Learn-HTML-CSS/blob/main/Images/doc%20structure.PNG)
 \<!DOCTYPE html> <br>
 \<html lang="en"> <br>
 	\<head> <br>
