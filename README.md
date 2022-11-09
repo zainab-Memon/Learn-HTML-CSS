@@ -7,9 +7,9 @@ JS  --> Verbs --> Provides dynamic effects and web applications <br>
 - HTML is a markup language that web developers use to structure and describe the content of a webpage (not a programming language
 Element: <p>Hi, My name is zainab memon.</p> <br>
 Here: 
-	- Opening Tag:"<p>"
+	- Opening Tag:'\<>'
 	- Content: Hi, My name is zainab memon.
-	- Closing Tag:"</p>"
+	- Closing Tag:"</>"
 
 
 Day 2: 10/11/2022
