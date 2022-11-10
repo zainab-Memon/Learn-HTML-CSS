@@ -66,8 +66,18 @@ Here is a list of a few formatting elements of html
 ### Hyperlinks 
 - Links are hyperlinks that help a user jump to another document or jump to some other content within the document.
 - A link can be text, image or any other html element.
-- The HTML \<a> tag defines a hyperlink.
+- The HTML \<a> tag defines a hyperlink.<br>
 ![](https://github.com/zainab-Memon/Learn-HTML-CSS/blob/main/Images/link.PNG)
 - Here the href attribute defines the link destination. 
 - The content within the opening and closing tag will be displayed to the user.
 - Once he clicks the text, he will be redirected to the destination page.
+- The target attribute specifies where to open the linked document. 
+- By default, the link will open in the same browser window, however you can set it to different window by using target attribute. 
+- The target attribute can have one of the following values:
+	- \_self: Default. Opens the document in the same window/tab as it was clicked
+	- \_blank: Opens the document in a new window or tab
+	- \_parent: Opens the document in the parent frame
+	- \_top: Opens the document in the full body of the window
+#### Absolute URL and Relative URL 
+- A local link (a link to a page within the same website) is specified with a relative URL (without the "https://www" part)
+- An absolute URL contains the entire address and points to other websites.
