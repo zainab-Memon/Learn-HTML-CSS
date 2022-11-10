@@ -63,3 +63,11 @@ Here is a list of a few formatting elements of html
 - If you want some text to be in the code file but do not want it to be displayed on the browser, you can hide it using html comments.
 - You can use comments to document your source code.
 - Syntax: \<!-- Write your comments here \-->
+### Hyperlinks 
+- Links are hyperlinks that help a user jump to another document or jump to some other content within the document.
+- A link can be text, image or any other html element.
+- The HTML \<a> tag defines a hyperlink.
+![](https://github.com/zainab-Memon/Learn-HTML-CSS/blob/main/Images/link.PNG)
+- Here the href attribute defines the link destination. 
+- The content within the opening and closing tag will be displayed to the user.
+- Once he clicks the text, he will be redirected to the destination page.
