@@ -45,4 +45,5 @@ Here is a list of a few formatting elements of html
 - The \<img> tag is empty, it contains attributes only, and does not have a closing tag.
 - The \<img> tag has two required attributes:
 	- src: Specifies the path to the image
-	- alt: Specifies an alternate text for the image
+	- alt: Specifies an alternate text for the image <br>
+![](https://github.com/zainab-Memon/Learn-HTML-CSS/blob/main/Images/image%20tag.PNG)
