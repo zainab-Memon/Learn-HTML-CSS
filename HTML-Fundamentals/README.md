@@ -95,3 +95,4 @@ Here is a list of a few formatting elements of html
 	- \<footer>: It should be used to contain your site's footer content
 	- \<article>: The \<article> tag specifies independent, self-contained content
 	- \<section>: This element, on the other hand is for breaking the content of a page into different functions or subjects areas, or breaking an article or story up into different sections.
+	- \<aside>: This element is used for some secondary information that compliments the information in the main part of the page.
