@@ -1,8 +1,9 @@
-# Day 1: 09/11/2022
+# 01- HTML FUNDAMENTALS
+## Day 1: 09/11/2022
 - HTML --> Noun --> Content 
 - CSS  --> Adjectives --> Presentation of Content 
 - JS   --> Verb --> Provides dynamic effects and web applications
-## 01- HTML FUNDAMENTALS
+### Introduction
 - HyperText Markup Language
 - HTML is a markup language that web developers use to structure and describe the content of a webpage (not a programming language) 
 - Element: \<p> Hi, My name is Zainab Memon \</p>
@@ -34,10 +35,21 @@ Here is a list of a few formatting elements of html
 - \<ins> - Inserted text
 - \<sub> - Subscript text
 - \<sup> - Superscript text
-# Day 2 10/11/2022
-## Images and Attributes 
+## Day 2 10/11/2022
+### Attributes 
 - Attributes are pieces of data which we can use to describe the elements.
 - There are lots of attributes in html. 
+- All HTML elements can have attributes
+- Attributes are always specified in the start tag
+- Attributes usually come in name/value pairs like: name="value"
+- Here are a few of the attributes of different HTML elements:
+	- The href attribute of \<a> specifies the URL of the page the link goes to.
+	- The src attribute of \<img> specifies the path to the image to be displayed
+	- The width and height attributes of \<img> provide size information for images
+	- The alt attribute of \<img> provides an alternate text for an image
+	- The style attribute is used to add styles to an element, such as color, font, size, and more
+	- The lang attribute of the \<html> tag declares the language of the Web page
+	- The title attribute defines some extra information about an element
 ### Image Tag
 - The HTML \<img> tag is used to embed an image in a web page.
 - Images are not technically inserted into a web page; images are linked to web pages. 
@@ -47,3 +59,7 @@ Here is a list of a few formatting elements of html
 	- src: Specifies the path to the image
 	- alt: Specifies an alternate text for the image <br>
 ![](https://github.com/zainab-Memon/Learn-HTML-CSS/blob/main/Images/image%20tag.PNG)
+### Comments
+- If you want some text to be in the code file but do not want it to be displayed on the browser, you can hide it using html comments.
+- You can use comments to document your source code.
+- Syntax: \<!-- Write your comments here \-->
