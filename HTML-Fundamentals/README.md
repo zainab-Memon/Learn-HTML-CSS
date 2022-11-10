@@ -35,4 +35,14 @@ Here is a list of a few formatting elements of html
 - \<sub> - Subscript text
 - \<sup> - Superscript text
 # Day 2 10/11/2022
-
+## Images and Attributes 
+- Attributes are pieces of data which we can use to describe the elements.
+- There are lots of attributes in html. 
+### Image Tag
+- The HTML \<img> tag is used to embed an image in a web page.
+- Images are not technically inserted into a web page; images are linked to web pages. 
+- The \<img> tag creates a holding space for the referenced image.
+- The \<img> tag is empty, it contains attributes only, and does not have a closing tag.
+- The \<img> tag has two required attributes:
+	- src: Specifies the path to the image
+	- alt: Specifies an alternate text for the image
