@@ -15,14 +15,20 @@
 ### Headings 
 ![](https://github.com/zainab-Memon/Learn-HTML-CSS/blob/main/Images/html%20headings.PNG) <br>
 ![](https://github.com/zainab-Memon/Learn-HTML-CSS/blob/main/Images/headings.PNG)
-### Text and Formatting Elements 
-There are so many text elements in html, a few of them are listed below.
+### Paragraph 
+- A paragraph tag is used to define paragraphs in html. 
+- A paragraph always starts on the new line.
 - Paragraph Element: \<p> This is a paragraph element \</p>
-- List Element: You can use two types of list in html.
+### List Element
+- You can use three types of lists in html.
 	- Ordered Lists <br>
-![](https://github.com/zainab-Memon/Learn-HTML-CSS/blob/main/Images/OL.PNG) <br>	
+![](https://github.com/zainab-Memon/Learn-HTML-CSS/blob/main/Images/OL.PNG) <br>
 	- Unordered Lists <br>
 ![](https://github.com/zainab-Memon/Learn-HTML-CSS/blob/main/Images/ul.PNG) <br>
+	- Description Lists <br>
+		- A description list is a list of terms, with a description of each term.
+		- The \<dl> tag define the description list, the \<dt> tag defines the term, and the \<dd> tag describes each term <br>
+![](https://github.com/zainab-Memon/Learn-HTML-CSS/blob/main/Images/dl.PNG)
 #### Formatting Elements
 Here is a list of a few formatting elements of html 
 - \<b> - Bold text
@@ -81,3 +87,10 @@ Here is a list of a few formatting elements of html
 #### Absolute URL and Relative URL 
 - A local link (a link to a page within the same website) is specified with a relative URL (without the "https://www" part)
 - An absolute URL contains the entire address and points to other websites.
+### Structural Elements
+- we can use html structural elements to give structure to our web page rather than forcing all of the tags in a single document without segregating them.
+	- \<nav>: The \<nav> element is for marking up the navigation links or other constructs (eg a search form) that will take you to different pages of the current site, or different areas of the current page.
+	- \<header>: The purpose of this element is to wrap the section of content that forms the header of the page, usually containing a company logo/graphic, main page title, etc.
+	- \<footer>: It should be used to contain your site's footer content
+	- \<article>: The \<article> tag specifies independent, self-contained content
+	- \<section>: This element, on the other hand is for breaking the content of a page into different functions or subjects areas, or breaking an article or story up into different sections.
