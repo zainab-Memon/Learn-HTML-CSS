@@ -89,6 +89,7 @@ Here is a list of a few formatting elements of html
 - An absolute URL contains the entire address and points to other websites.
 ### Structural Elements
 - we can use html structural elements to give structure to our web page rather than forcing all of the tags in a single document without segregating them.
+- we can use \<div> elements here as well, but we use semantic html to give our elements some meaning.
 	- \<nav>: The \<nav> element is for marking up the navigation links or other constructs (eg a search form) that will take you to different pages of the current site, or different areas of the current page.
 	- \<header>: The purpose of this element is to wrap the section of content that forms the header of the page, usually containing a company logo/graphic, main page title, etc.
 	- \<footer>: It should be used to contain your site's footer content
