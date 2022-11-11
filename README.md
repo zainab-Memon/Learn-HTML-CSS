@@ -1,7 +1,7 @@
 # BUILD RESPONSIVE REAL - WORLD WEBSITES WITH HTML AND CSS
 In this course, we are going to learn html and css from scratch. <br>
 There are total 8 chapters. <br>
-I am following a udemy course by JONAS. <br>
+I am following a udemy course by JONAS and a youtube tutorial by supersimpledev. <br>
 Each chapter contains the code file along with a README.md that contains the theory notes of each chapter. <br>
 
 ## Chapters Sequence: 
