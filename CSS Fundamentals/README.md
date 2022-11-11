@@ -54,4 +54,5 @@
 - There are many text spacing properties. One of them is line Height.
 - It's used to set the distance between lines of text. <br>
 **All of the above mentioned properties are applied on the index.html file from HTML Fundamental chapters.**<br>
-![](https://github.com/zainab-Memon/Learn-HTML-CSS/blob/main/Images/text%20styling.PNG)
+![](https://github.com/zainab-Memon/Learn-HTML-CSS/blob/main/Images/text%20styling.PNG) <br>
+- You can check the output of this code by downloading the code file of this chapter.
