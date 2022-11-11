@@ -69,10 +69,16 @@
 - The universal selector (*), selects all of the HTML elements on the page. <br>
 ![](https://github.com/zainab-Memon/Learn-HTML-CSS/blob/main/Images/universal%20selector.PNG)
 #### Class Selector 
-  
+- The class selector selects HTML elements with a specific class attribute.
+- To select elements with a specific class, write a period (.) character, followed by the class name.
+- HTML elements can also refer to more than one class <br>
+![](https://github.com/zainab-Memon/Learn-HTML-CSS/blob/main/Images/class.PNG)
+![](https://github.com/zainab-Memon/Learn-HTML-CSS/blob/main/Images/class%20sele.PNG)
 #### ID Selector 
 - The id selector uses the id attribute of an HTML element to select a specific element.
 - The id of an element is unique within a page, so the id selector is used to select one unique element!
 - To select an element with a specific id, write a hash (#) character, followed by the id of the element.<br>
 ![](https://github.com/zainab-Memon/Learn-HTML-CSS/blob/main/Images/id.PNG) <br>
 ![](https://github.com/zainab-Memon/Learn-HTML-CSS/blob/main/Images/id%20selector.PNG)
+- The difference between id and class selectors is that we cannot repeat same id more than once in an html page, however more than one element can belong to same class.
+  
