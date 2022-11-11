@@ -26,7 +26,7 @@
 - Syntax: <br>
 ![](https://github.com/zainab-Memon/Learn-HTML-CSS/blob/main/Images/stylecss.PNG) <br>
 ![](https://github.com/zainab-Memon/Learn-HTML-CSS/blob/main/Images/external%20css1.PNG)
-- Note: Inline style should never usually be used.
+- **Note: Inline style should never usually be used.**
 - External CSS is usually preferred as we can use it to style various web pages.  
 ### Styling Text 
 - There are so many properties in CSS to style text. 
@@ -80,5 +80,5 @@
 - To select an element with a specific id, write a hash (#) character, followed by the id of the element.<br>
 ![](https://github.com/zainab-Memon/Learn-HTML-CSS/blob/main/Images/id.PNG) <br>
 ![](https://github.com/zainab-Memon/Learn-HTML-CSS/blob/main/Images/id%20selector.PNG)
-- The difference between id and class selectors is that we cannot repeat same id more than once in an html page, however more than one element can belong to same class.
-- We usually use class selectors, so that a number of different elements can use that styling in future, if need be.
+- The difference between id and class selectors is that we **cannot repeat same id more than once** in an html page, however more than one element can belong to same class.
+- We usually use **class selectors**, so that a number of different elements can use that styling in future, if need be.
