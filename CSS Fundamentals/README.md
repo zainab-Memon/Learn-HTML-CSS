@@ -81,4 +81,4 @@
 ![](https://github.com/zainab-Memon/Learn-HTML-CSS/blob/main/Images/id.PNG) <br>
 ![](https://github.com/zainab-Memon/Learn-HTML-CSS/blob/main/Images/id%20selector.PNG)
 - The difference between id and class selectors is that we cannot repeat same id more than once in an html page, however more than one element can belong to same class.
-  
+- We usually use class selectors, so that a number of different elements can use that styling in future, if need be.
