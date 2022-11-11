@@ -91,9 +91,30 @@
 - **RGBA:** RGBA color values are an extension of RGB color values with an alpha channel - which specifies the opacity for a color.
 - The alpha parameter is a number between 0.0 (fully transparent) and 1.0 (not transparent at all)
 - **HEX:** A hexadecimal color is specified with: #RRGGBB, Where rr (red), gg (green) and bb (blue) are hexadecimal values between 00 and ff (same as decimal 0-255).
+- The 3-digit hex code can be used when both the values (RR, GG, and BB) are the same for each component. So, if we have #ff00cc, it can be written like this: #f0c. 
 - **HSL:** HSL stands for hue, saturation, and lightness.
 - hsl(hue, saturation, lightness)
   - Hue is a degree on the color wheel from 0 to 360. 0 is red, 120 is green, and 240 is blue.
   - Saturation is a percentage value. 0% means a shade of gray, and 100% is the full color.
   - Lightness is also a percentage. 0% is black, 50% is neither light or dark, 100% is white
-
+- Note: We mostly use HEX or RGBA
+### Border 
+- The CSS border properties allow you to specify the style, width, and color of an element's border.
+#### border-width
+- Specifies the width of the four borders.
+- The border-width property can have from one to four values (for the top border, right border, bottom border, and the left border) <br>
+![](https://github.com/zainab-Memon/Learn-HTML-CSS/blob/main/Images/border-width.PNG)
+#### border-color
+- Specifies the color of the four borders.
+- The border-color property can have from one to four values (for the top border, right border, bottom border, and the left border).
+#### border-style
+- Specifies the style of the four borders, either as dotted, solid, dashed etc.
+#### Individual Side Border
+- border-top refers to the top side of the border, we can solely change its width, style and color as <br>
+![](https://github.com/zainab-Memon/Learn-HTML-CSS/blob/main/Images/border-top.PNG)
+- Similary, we can use border-right, border-left, and border-bottom to style rest of the borders.
+#### Shorthand Border
+- We can use a shorthand property for width, style and color: <br>
+![](https://github.com/zainab-Memon/Learn-HTML-CSS/blob/main/Images/border%20shorthand.PNG)  
+- we can use this shortand property with individual side borders as well.<br>
+![](https://github.com/zainab-Memon/Learn-HTML-CSS/blob/main/Images/border%20short%20ind.PNG) 
