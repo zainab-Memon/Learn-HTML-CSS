@@ -28,3 +28,30 @@
 ![](https://github.com/zainab-Memon/Learn-HTML-CSS/blob/main/Images/external%20css1.PNG)
 - Note: Inline style should never usually be used.
 - External CSS is usually preferred as we can use it to style various web pages.  
+### Styling Text 
+- There are so many properties in CSS to style text. 
+- You don't need to memorize all of them
+- Few of the important and most used ones are discusse below. 
+#### Text Color 
+- We can change/set the color of text in css by using the color property in css. 
+#### Text Font Size
+- We can set the size of font using the font-size property in css
+- The size can be defined in many different units, but for now we will stick to px
+#### Text Font Family 
+- In CSS, we use the font-family property to specify the font of a text.
+- If the font name is more than one word, it must be in quotation marks, like: "Times New Roman".
+- You can specify more than one font for your website, so that if the browser doesn't support one of the fonts, it can use another one from your specified fonts
+#### Text Alignment
+- The text-align property is used to set the horizontal-alignment of the text. 
+- A text can be left or right aligned, centered, or justified.
+#### Text Transform
+- With this property, we can specify the uppercase and lowercase letters in the text
+- It can be used to turn everything into uppercase or lowercase letters, or capitalize the first letter of each word
+#### Font Style
+- The font-style property allows you to make text appear italicized 
+- This property accepts one of three possible values: normal, italic, and oblique.
+#### Text Spacing
+- There are many text spacing properties. One of them is line Height.
+- It's used to set the distance between lines of text. <br>
+**All of the above mentioned properties are applied on the index.html file from HTML Fundamental chapters.**<br>
+![](https://github.com/zainab-Memon/Learn-HTML-CSS/blob/main/Images/text%20styling.PNG)
