@@ -84,3 +84,16 @@
 - We usually use **class selectors**, so that a number of different elements can use that styling in future, if need be.
 ### Comment 
 - In css, you can comment your code using this syntax: \/* This is a single-line comment \*/
+### Color 
+- In CSS, colors can also be specified using RGB values, HEX values, HSL values, RGBA values, and HSLA values.
+- **RGB:** rgb(red, green, blue)
+- Each parameter (red, green, and blue) defines the intensity of the color between 0 and 255.
+- **RGBA:** RGBA color values are an extension of RGB color values with an alpha channel - which specifies the opacity for a color.
+- The alpha parameter is a number between 0.0 (fully transparent) and 1.0 (not transparent at all)
+- **HEX:** A hexadecimal color is specified with: #RRGGBB, Where rr (red), gg (green) and bb (blue) are hexadecimal values between 00 and ff (same as decimal 0-255).
+- **HSL:** HSL stands for hue, saturation, and lightness.
+- hsl(hue, saturation, lightness)
+  - Hue is a degree on the color wheel from 0 to 360. 0 is red, 120 is green, and 240 is blue.
+  - Saturation is a percentage value. 0% means a shade of gray, and 100% is the full color.
+  - Lightness is also a percentage. 0% is black, 50% is neither light or dark, 100% is white
+
