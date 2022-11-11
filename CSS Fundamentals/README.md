@@ -118,3 +118,5 @@
 ![](https://github.com/zainab-Memon/Learn-HTML-CSS/blob/main/Images/border%20shorthand.PNG)  
 - we can use this shortand property with individual side borders as well.<br>
 ![](https://github.com/zainab-Memon/Learn-HTML-CSS/blob/main/Images/border%20short%20ind.PNG) 
+#### Rounded Borders
+- we can use border-radius property to round the corners of the border.
