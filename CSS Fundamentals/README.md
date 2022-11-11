@@ -56,3 +56,10 @@
 **All of the above mentioned properties are applied on the index.html file from HTML Fundamental chapters.**<br>
 ![](https://github.com/zainab-Memon/Learn-HTML-CSS/blob/main/Images/text%20styling.PNG) <br>
 - You can check the output of this code by downloading the code file of this chapter.
+### Selectors 
+- A CSS selector selects the HTML element(s) you want to style.
+- There are 5 types of selectors in CSS
+#### Grouping Selectors 
+- The grouping selector selects all the HTML elements with the same style definitions.
+- As shown in above figure, all the elements have same font-family, so rather than defining the font family over and over again for each element, we can simply group these elements and declare a single css rule for all of them as shown below.
+![](https://github.com/zainab-Memon/Learn-HTML-CSS/blob/main/Images/group%20selector.PNG)
