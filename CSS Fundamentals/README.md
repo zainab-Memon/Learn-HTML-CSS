@@ -58,8 +58,21 @@
 - You can check the output of this code by downloading the code file of this chapter.
 ### Selectors 
 - A CSS selector selects the HTML element(s) you want to style.
-- There are 5 types of selectors in CSS
+- There are 5 important selectors in CSS
+#### Element Selector
+- The element selector selects html elements based on their names as shown in above image.
 #### Grouping Selectors 
 - The grouping selector selects all the HTML elements with the same style definitions.
 - As shown in above figure, all the elements have same font-family, so rather than defining the font family over and over again for each element, we can simply group these elements and declare a single css rule for all of them as shown below.
 ![](https://github.com/zainab-Memon/Learn-HTML-CSS/blob/main/Images/group%20selector.PNG)
+#### Universal Selector 
+- The universal selector (*), selects all of the HTML elements on the page. <br>
+![](https://github.com/zainab-Memon/Learn-HTML-CSS/blob/main/Images/universal%20selector.PNG)
+#### Class Selector 
+  
+#### ID Selector 
+- The id selector uses the id attribute of an HTML element to select a specific element.
+- The id of an element is unique within a page, so the id selector is used to select one unique element!
+- To select an element with a specific id, write a hash (#) character, followed by the id of the element.<br>
+![](https://github.com/zainab-Memon/Learn-HTML-CSS/blob/main/Images/id.PNG) <br>
+![](https://github.com/zainab-Memon/Learn-HTML-CSS/blob/main/Images/id%20selector.PNG)
