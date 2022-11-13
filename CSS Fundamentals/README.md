@@ -142,5 +142,27 @@
 ### Font Weight
 - The font-weight property sets how thick or thin characters in text should be displayed.
 - font-weight: normal|bold|bolder|lighter|number|initial|inherit;
+### Psuedo Class
+- A pseudo-class is used to define a special state of an element.
+- For example, it can be used to:
+  - Style an element when a user mouses over it
+  - Style visited and unvisited links differently
+- **Syntax:**  <br>
+**selector:pseudo-class {
+  property: value;
+}**
+### Psuedo Element
+- A CSS pseudo-element is used to style specified parts of an element.
+- For example, it can be used to:
+  - Style the first letter, or line, of an element
+  - Insert content before, or after, the content of an element
+- **Syntax** <br>
+- **selector::pseudo-element {
+  property: value;
+}**
 ## Day 5: 13/11/2022
+### Hover
+  
+### Transition 
+### Shadows
 ## Day 6: 14/11/2022
