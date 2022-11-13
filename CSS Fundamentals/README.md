@@ -121,27 +121,6 @@
 #### Rounded Borders
 - we can use border-radius property to round the corners of the border.
 ## Day 4: 12/11/2022
-### Margin 
-- Margins are used to create space around elements, outside of any defined borders.
-- CSS has properties for specifying the margin for each side of an element:
-  - margin-top
-  - margin-right
-  - margin-bottom
-  - margin-left
-- All the margin properties can have the following values:
-  - auto: the browser calculates the margin
-  - length: specifies a margin in px, pt, cm, etc.
-  - %: specifies a margin in % of the width of the containing element
-  - inherit: specifies that the margin should be inherited from the parent element
-- The margin property is a shorthand property for the above individual margin properties
-- **Syntax:** margin: top right bottom left => margin: 10px 15px 10px 15px
-- **Example:** margin: 10px 15px 10px => margin: top right&left bottom
-- **Example:** margin: 10px 15px => margin: top&bottom right&left
-- **Example:** margin: 10px 15px => margin: top&bottom right&left
-### Cursor
-### Font Weight
-- The font-weight property sets how thick or thin characters in text should be displayed.
-- font-weight: normal|bold|bolder|lighter|number|initial|inherit;
 ### Psuedo Class
 - A pseudo-class is used to define a special state of an element.
 - For example, it can be used to:
@@ -160,9 +139,36 @@
 - **selector::pseudo-element {
   property: value;
 }**
+### Kind of Psuedo Classes
+#### link 
+#### Visited
+#### Hover
+#### Active 
+#### First Child 
 ## Day 5: 13/11/2022
-### Hover
-  
-### Transition 
-### Shadows
+### Useful CSS Properties
+  #### Margin 
+- Margins are used to create space around elements, outside of any defined borders.
+- CSS has properties for specifying the margin for each side of an element:
+  - margin-top
+  - margin-right
+  - margin-bottom
+  - margin-left
+- All the margin properties can have the following values:
+  - auto: the browser calculates the margin
+  - length: specifies a margin in px, pt, cm, etc.
+  - %: specifies a margin in % of the width of the containing element
+  - inherit: specifies that the margin should be inherited from the parent element
+- The margin property is a shorthand property for the above individual margin properties
+- **Syntax:** margin: top right bottom left => margin: 10px 15px 10px 15px
+- **Example:** margin: 10px 15px 10px => margin: top right&left bottom
+- **Example:** margin: 10px 15px => margin: top&bottom right&left
+- **Example:** margin: 10px 15px => margin: top&bottom right&left
+#### Font Weight
+- The font-weight property sets how thick or thin characters in text should be displayed.
+#### Cursor
+#### Opacity
+#### Transition 
+#### Shadows
+#### Text Decoration
 ## Day 6: 14/11/2022
