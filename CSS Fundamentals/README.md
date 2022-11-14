@@ -146,7 +146,7 @@
 #### Active 
 #### First Child 
 ## Day 5: 13/11/2022
-### Useful CSS Properties
+### Useful CSS Properties-1
   #### Margin 
 - Margins are used to create space around elements, outside of any defined borders.
 - CSS has properties for specifying the margin for each side of an element:
@@ -172,3 +172,14 @@
 #### Shadows
 #### Text Decoration
 ## Day 6: 14/11/2022
+### Useful CSS Properties-2
+#### Padding 
+- An element's padding is the empty space between its content and its border or around the content
+- **Syntax:** padding: length|initial|inherit;
+- **Example:** padding: 10px 5px 10px 5px 
+- Follows same syntax as margin
+### Box Model 
+- In CSS, the term "box model" is used when talking about design and layout.
+- CSS box model is essentially a box that wraps around every HTML element. 
+- It consists of: margins, borders, padding, and the actual content. 
+![image](https://user-images.githubusercontent.com/88162824/201622375-f421ff62-a07b-4c43-ab86-88ee04523a94.png)
