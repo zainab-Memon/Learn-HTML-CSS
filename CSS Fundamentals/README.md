@@ -183,3 +183,6 @@
 - CSS box model is essentially a box that wraps around every HTML element. 
 - It consists of: margins, borders, padding, and the actual content. 
 ![image](https://user-images.githubusercontent.com/88162824/201622375-f421ff62-a07b-4c43-ab86-88ee04523a94.png)
+## Day 7: 1/11/2022
+### Creating a website like youtube using following properties
+- **Note:** The code for following project is uploaded in the code folder.
