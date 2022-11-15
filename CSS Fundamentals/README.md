@@ -184,5 +184,41 @@
 - It consists of: margins, borders, padding, and the actual content. 
 ![image](https://user-images.githubusercontent.com/88162824/201622375-f421ff62-a07b-4c43-ab86-88ee04523a94.png)
 ## Day 7: 1/11/2022
-### Creating a website like youtube using following properties
+### Types of Boxes/Elements
+#### Block Level Elements 
+- A block-level element always starts on a new line and takes up the full width available (stretches out to the left and right as far as it can).
+- Examples of block-level elements:
+  - <div>
+  - \<h1> - \<h6>
+  - \<p>
+  - \<form>
+  - \<header>
+  - \<footer>
+  - \<section>
+  - \<ul>, \<ol>
+#### Inline Elements 
+- An inline element does not start on a new line and only takes up as much width as necessary.
+- height and width do not apply here, paddings and margins are applied only horizontally.
+- Examples of inline elements:
+  - \<span>
+  - \<a>
+  - \<img>
+#### Inline Block Elements
+- An inline-block element is placed as an inline element (on the same line as adjacent content), but it behaves as a block element.
+- Images are inline elements but they behave like inline-block elements.
+### Creating a website like youtube using following css properties
 - **Note:** The code for following project is uploaded in the code folder.
+### Useful CSS Properties-3
+#### Object Fit 
+#### Object Position 
+#### Creating Search Box 
+#### Display Property
+- The display property specifies if/how an element is displayed.
+- we can set it to none|block|inline-block.
+- Setting the display property of an element only changes how the element is displayed, NOT what kind of element it is. So, an inline element with display: block; is not allowed to have other block elements inside it.
+### DIV Element
+- The \<div> tag defines a division or a section in an HTML document.
+- The \<div> tag is used as a container for HTML elements - which is then styled with CSS
+- \<div> can contain other elements inside it. 
+#### Nested Layout Technique 
+### Grid 
