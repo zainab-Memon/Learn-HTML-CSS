@@ -228,6 +228,6 @@
 - The main idea behind CSS Grid is that we divide a container element into rows and columns that can be filled with its child elements.
 - An HTML element becomes a grid container when its display property is set to grid or inline-grid. <br>
 ![image](https://user-images.githubusercontent.com/88162824/201994987-d92e3c17-354b-4150-be4f-7c217c68b056.png)
-
+- Important properties related to grid are demonstrated in the following [codepen](https://codepen.io/zainab-Memon/pen/rNKzpqm)
 #### Floats 
 #### Flexbox
