@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      * {
+        margin: 0px;
+        padding: 0px;
+      }
+      body {
+        font-family: sans-serif;
+        line-height: 1.4;
+      }
+      .product-title {
+        text-align: center;
+        text-transform: uppercase;
+        background-color: #f7f7f7;
+        font-size: 22px;
+        margin: 0px;
+        padding: 15px;
+      }
+      .product {
+        border: 4px solid black;
+        width: 825px;
+        margin: 50px auto;
+        position: relative;
+      }
+      .price {
+        font-size: 24px;
+      }
+      .shipping {
+        text-transform: uppercase;
+        font-weight: bold;
+        color: #777;
+        font-size: 12px;
+        margin-bottom: 20px;
+      }
+      .sale {
+        background-color: #ec2f2f;
+        color: white;
+        font-size: 12px;
+        text-transform: uppercase;
+        font-weight: bold;
+        padding: 7px 15px;
+        display: inline-block;
+        letter-spacing: 2px;
+        /* width: 40px; */
+        /* text-align: center; */
+        position: absolute;
+        top: -17px;
+        left: -34px;
+      }
+
+      .more-info:link,
+      .more-info:visited {
+        color: black;
+        text-decoration: underline;
+        margin-bottom: 20px;
+        display: inline-block;
+      }
+
+      .more-info:hover,
+      .more-info:active {
+        text-decoration: none;
+      }
+
+      .p-details {
+        text-transform: uppercase;
+        font-size: 16px;
+        margin-bottom: 15px;
+        margin-top: 30px;
+      }
+
+      .details-list {
+        list-style: square;
+        margin-left: 20px;
+      }
+      .details-list li {
+        margin-bottom: 10px;
+      }
+      /* li:last-child {
+        margin-bottom: 0;
+      } */
+
+      .add-cart {
+        background-color: black;
+        color: white;
+        text-transform: uppercase;
+        font-size: 20px;
+        cursor: pointer;
+        border: none;
+        width: 100%;
+        padding: 15px;
+      }
+      .add-cart:hover {
+        background-color: white;
+        color: black;
+        border-top: 4px solid black;
+      }
+
+      .tag {
+        margin-bottom: 5px;
+      }
+      .color {
+        background-color: black;
+        height: 22px;
+        width: 22px;
+        display: inline-block;
+        margin-right: 10px;
+        /* margin-top: 10px; */
+      }
+      .blue {
+        background-color: aqua;
+      }
+      .red {
+        background-color: rgb(255, 0, 0);
+      }
+      .yellow {
+        background-color: rgb(236, 219, 67);
+      }
+      .green {
+        background-color: rgb(0, 255, 0);
+      }
+      .brown {
+        background-color: #e24a2f;
+      }
+    </style>
+  </head>
+
+  <body>
+    <article class="product">
+      <h2 class="product-title">Converse Chuck Taylor All Star Low Top</h2>
+      <img
+        src="https://i.ibb.co/Jr7Wh1d/challenges.jpg"
+        alt="Chuck Taylor All Star Shoe"
+        height="250"
+        width="250"
+      />
+      <p class="price"><strong>$65.00</strong></p>
+      <p class="shipping">Free Shipping</p>
+      <p class="sale">SALE</p>
+      <p class="tag">
+        Ready to dress up or down, these classic canvas Chucks are an everyday
+        wardrobe staple.
+      </p>
+      <a class="more-info" href="https://www.converse.com"
+        >More information &rarr;</a
+      >
+      <div class="colors">
+        <div class="color blue"></div>
+        <div class="color red"></div>
+        <div class="color yellow"></div>
+        <div class="color green"></div>
+        <div class="color brown"></div>
+        <div class="color"></div>
+      </div>
+      <h3 class="p-details">Product details</h3>
+      <ul class="details-list">
+        <li>Lightweight, durable canvas sneaker</li>
+        <li>Lightly padded footbed for added comfort</li>
+        <li>Iconic Chuck Taylor ankle patch</li>
+      </ul>
+
+      <button class="add-cart">Add to cart</button>
+    </article>
+  </body>
+</html>
