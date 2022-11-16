@@ -7,5 +7,5 @@ The images used in this web page are saved in the images folder.
 - [Here's](https://codepen.io/zainab-Memon/pen/vYrZJZv) a link to the codepen, where you can see the end results of the **challenge-1** along with the code.
 ## 2nd Challenge
 - [Here's](https://codepen.io/zainab-Memon/pen/abKwVMp) a link to the codepen, where you can see the end results of the **challenge-2** along with the code.
-3rd Challenge
+## 3rd Challenge
 - [Here's](https://codepen.io/zainab-Memon/pen/abKwVMp) a link to the codepen, where you can see the end results of the **challenge-3** along with the code.
