@@ -244,3 +244,4 @@
 #### Position 
 #### z-index
 #### Pointer-events
+#### Whitespace: nowrap
