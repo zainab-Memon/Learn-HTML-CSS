@@ -238,4 +238,5 @@
 - It is more flexible than the grid.
 - Maintains Vertical Alignment
 - Layout is more flexible as compared to grid.
-
+- Important properties related to flexbox are demonstrated in the following [codepen](https://codepen.io/zainab-Memon/pen/BaVwKpN)
+- We can nest flexboxes
