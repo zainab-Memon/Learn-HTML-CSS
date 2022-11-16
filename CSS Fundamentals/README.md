@@ -242,3 +242,5 @@
 - We can nest flexboxes
 ### Useful CSS Properties-4
 #### Position 
+#### z-index
+#### Pointer-events
