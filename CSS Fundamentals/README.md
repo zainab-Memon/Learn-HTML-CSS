@@ -183,7 +183,7 @@
 - CSS box model is essentially a box that wraps around every HTML element. 
 - It consists of: margins, borders, padding, and the actual content. 
 ![image](https://user-images.githubusercontent.com/88162824/201622375-f421ff62-a07b-4c43-ab86-88ee04523a94.png)
-## Day 7: 1/11/2022
+## Day 7: 15/11/2022
 ### Types of Boxes/Elements
 #### Block Level Elements 
 - A block-level element always starts on a new line and takes up the full width available (stretches out to the left and right as far as it can).
@@ -229,5 +229,13 @@
 - An HTML element becomes a grid container when its display property is set to grid or inline-grid. <br>
 ![image](https://user-images.githubusercontent.com/88162824/201994987-d92e3c17-354b-4150-be4f-7c217c68b056.png)
 - Important properties related to grid are demonstrated in the following [codepen](https://codepen.io/zainab-Memon/pen/rNKzpqm)
+## Day 8: 16/11/2022
+### Types of Layout in CSS - Continue 
 #### Floats 
 #### Flexbox
+- Flexbox is a one-dimensional layout method for laying out items in rows or columns. 
+- Items flex to fill additional space and shrink to fit into smaller spaces.
+- It is more flexible than the grid.
+- Maintains Vertical Alignment
+- Layout is more flexible as compared to grid.
+
