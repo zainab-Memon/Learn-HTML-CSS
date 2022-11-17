@@ -242,9 +242,14 @@
 - We can nest flexboxes
 ### Useful CSS Properties-4
 #### Position 
+- The position CSS property sets how an element is positioned in a document. 
+- The position property specifies the type of positioning method used for an element (static, relative, fixed, absolute or sticky).
+- The top , right , bottom , and left properties determine the final location of positioned elements.
 #### z-index
 - When elements are positioned, they can overlap other elements.
 - The z-index property specifies the stack order of an element (which element should be placed in front of, or behind, the others).
 - z-index only works on positioned elements (position: absolute, position: relative, position: fixed, or position: sticky) and flex items (elements that are direct children of display: flex elements).
 #### Pointer-events
-#### Whitespace: nowrap
+- The pointer-events CSS property sets under what circumstances (if any) a particular graphic element can become the target of pointer events.
+#### Whitespace
+- The white-space property specifies how white-space inside an element is handled.
