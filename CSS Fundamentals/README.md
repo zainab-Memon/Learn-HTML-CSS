@@ -233,7 +233,7 @@
 - The pointer-events CSS property sets under what circumstances (if any) a particular graphic element can become the target of pointer events.
 #### Whitespace
 - The white-space property specifies how white-space inside an element is handled.
-## Day 9: 17/11/
+## Day 9: 17/11/2022
 ### Responsive Design 
 - Responsive web design makes your web page look good on all devices.
 - Responsive web design uses only HTML and CSS.
