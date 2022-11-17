@@ -243,5 +243,8 @@
 ### Useful CSS Properties-4
 #### Position 
 #### z-index
+- When elements are positioned, they can overlap other elements.
+- The z-index property specifies the stack order of an element (which element should be placed in front of, or behind, the others).
+- z-index only works on positioned elements (position: absolute, position: relative, position: fixed, or position: sticky) and flex items (elements that are direct children of display: flex elements).
 #### Pointer-events
 #### Whitespace: nowrap
