@@ -234,7 +234,18 @@
 #### Whitespace
 - The white-space property specifies how white-space inside an element is handled.
 ## Day 9: 17/11/
-### Media Queries
+### Responsive Design 
+- Responsive web design makes your web page look good on all devices.
+- Responsive web design uses only HTML and CSS.
+#### The Viewport
+- The viewport is the user's visible area of a web page.
+- The viewport varies with the device, and will be smaller on a mobile phone than on a computer screen.
+- HTML5 introduced a method to let web designers take control over the viewport, through the \<meta> tag.
+- \<meta name="viewport" content="width=device-width, initial-scale=1.0">
+- This gives the browser instructions on how to control the page's dimensions and scaling.
+- The width=device-width part sets the width of the page to follow the screen-width of the device (which will vary depending on the device).
+- The initial-scale=1.0 part sets the initial zoom level when the page is first loaded by the browser.
+#### Media Queries
 - Media queries can be used to check many things, such as:
   - width and height of the viewport
   - width and height of the device
