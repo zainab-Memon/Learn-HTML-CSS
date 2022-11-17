@@ -220,8 +220,8 @@
 - \<div> can contain other elements inside it. 
 #### Nested Layout Technique 
 ### Types of Layout in CSS
-- Layout is the way text, images and other content is placed and arranged on a webpage
-#### Grid 
+- Layout is the way text, images and other content is placed and arranged on a webpage.
+#### CSS Grid 
 - CSS Grid is a set of CSS properties for building 2-dimensional layouts.
 - The main idea behind CSS Grid is that we divide a container element into rows and columns that can be filled with its child elements.
 - An HTML element becomes a grid container when its display property is set to grid or inline-grid. <br>
@@ -230,6 +230,14 @@
 ## Day 8: 16/11/2022
 ### Types of Layout in CSS - Continue 
 #### Floats 
+- The CSS float property specifies how an element should float.
+- The float property is used for positioning and formatting content 
+- e.g. let an image float left to the text in a container.
+- The float property can have one of the following values:
+  - left - The element floats to the left of its container
+  - right - The element floats to the right of its container
+  - none - The element does not float (will be displayed just where it occurs in the text). This is default
+  - inherit - The element inherits the float value of its parent
 #### Flexbox
 - Flexbox is a one-dimensional layout method for laying out items in rows or columns. 
 - Items flex to fill additional space and shrink to fit into smaller spaces.
