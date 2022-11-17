@@ -249,6 +249,10 @@
   - inherit - The element inherits the clear value from its parent
 - When clearing floats, you should match the clear to the float: If an element is floated to the left, then you should clear to the left. 
 - Your floated element will continue to float, but the cleared element will appear below it on the web page.
+#### Clear fix hack
+- A clearfix is a way for an element to automatically clear its child elements, so that you don't need to add additional markup. It's generally used in float layouts where elements are floated to be stacked horizontally.
+- Syntax: <br>
+  ![image](https://user-images.githubusercontent.com/88162824/202436724-d6b6b7e9-6329-44f7-bb84-290ff18acc6c.png)
 #### Flexbox
 - Flexbox is a one-dimensional layout method for laying out items in rows or columns. 
 - Items flex to fill additional space and shrink to fit into smaller spaces.
