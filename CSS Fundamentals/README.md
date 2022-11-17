@@ -253,3 +253,13 @@
 - The pointer-events CSS property sets under what circumstances (if any) a particular graphic element can become the target of pointer events.
 #### Whitespace
 - The white-space property specifies how white-space inside an element is handled.
+## Day 9: 17/11/
+### Media Queries
+- Media queries can be used to check many things, such as:
+  - width and height of the viewport
+  - width and height of the device
+  - orientation (is the tablet/phone in landscape or portrait mode?)
+  - resolution
+- It uses the @media rule to include a block of CSS properties only if a certain condition is true.
+- Example: <br>
+  ![image](https://user-images.githubusercontent.com/88162824/202421624-1bcf7967-5250-42a0-9224-b136a087241f.png)
