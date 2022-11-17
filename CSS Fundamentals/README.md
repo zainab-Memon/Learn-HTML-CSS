@@ -206,8 +206,6 @@
 #### Inline Block Elements
 - An inline-block element is placed as an inline element (on the same line as adjacent content), but it behaves as a block element.
 - Images are inline elements but they behave like inline-block elements.
-### Creating a website like youtube using following css properties
-- **Note:** The code for following project is uploaded in the code folder.
 ### Useful CSS Properties-3
 #### Object Fit 
 #### Object Position 
