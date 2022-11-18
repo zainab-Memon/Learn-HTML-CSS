@@ -13,5 +13,8 @@
 ![image](https://user-images.githubusercontent.com/88162824/202699994-3e111356-886b-4487-b777-b41459f0f4f9.png) <br>
 - Code for building accordoins is given in code section. 
 ### Carousel Component 
+- The Carousel component allows you to a display a selection of rotating images with a title, brief description and link to an associated story, event, program or project page elsewhere in your site. 
+- Eg: <br>
+![image](https://user-images.githubusercontent.com/88162824/202736078-f4bb3d23-de4b-4ebc-a00c-d30a841d2b6a.png)
 ### Table Component 
 ### Pagination Component 
