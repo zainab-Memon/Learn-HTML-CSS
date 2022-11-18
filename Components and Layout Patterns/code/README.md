@@ -1,1 +1,1 @@
-
+- All the concepts from the theory notes of this chapter are used in the following code files.
