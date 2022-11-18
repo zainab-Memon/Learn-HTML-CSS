@@ -8,7 +8,7 @@ Each chapter contains the code file along with a README.md that contains the the
 1. HTML Fundamentals 
 2. CSS Fundamentals 
 3. Layouts_ Floats, Flexbox, and CSS Grid Fundamentals
-4. Web Design Rules and Framework
+4. Web Design Rules and Framework - **SKIPPED**
 5. Components and Layout Patterns
 6. Omnifood Project _ Setup and Desktop Version
 7. Omnifood Project _ Responsive Web Design
