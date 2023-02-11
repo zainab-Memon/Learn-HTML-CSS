@@ -218,7 +218,7 @@
 - The \<div> tag defines a division or a section in an HTML document.
 - The \<div> tag is used as a container for HTML elements - which is then styled with CSS
 - \<div> can contain other elements inside it. 
-### Learn about layouts [Here](https://github.com/zainab-Memon/Learn-HTML-CSS/blob/main/Layouts/README.md), and then continue learning css properties in this file.
+### Learn about layouts [Here](https://github.com/zainab-Memon/Learn-HTML-CSS/tree/main/03-Layouts), and then continue learning css properties in this file.
 ## Day 8: 16/11/2022
 ### Useful CSS Properties-4
 #### Position 
